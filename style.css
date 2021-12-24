@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+    border: 10px solid dimgray;
+    background-color: dimgrey;
+}
+body{
+    background-color: aliceblue;
+}
+img{
+    border: 5px solid black;
+    border-radius: 40px ;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+
+}
+.origami{
+    border-radius: 20px;
+    border-color: blue;
+    width: 310px;
+    font-family: fantasy;
+}
